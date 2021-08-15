@@ -34,4 +34,14 @@
 	background:indigo;
 	color:white;
 	width:230px;
+}
 
+html {
+    background-image: url("../Imagens/Imagem3.jpg") ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:black;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
