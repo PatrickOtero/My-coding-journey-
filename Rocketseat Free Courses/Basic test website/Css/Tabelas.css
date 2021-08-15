@@ -1,0 +1,37 @@
+#mv {
+	background-color:indigo;
+	color:white;
+	font-size:30px;
+	width:520px;
+}
+#nav {
+	color:indigo;
+	background-color:chartreuse;
+	font-size:30px;
+	width:350px;
+}
+#btable {
+	color:purple;
+	background:;
+	margin-left:250px;
+	width:150px;
+}
+#bttitle {
+	margin-left:250px;
+	background:indigo;
+	color:white;
+	width:200px;
+
+}
+#ctable {
+	color:purple;
+	background:;
+	margin-left:180px;
+	width:150px;
+}
+#cttitle {
+	margin-left:250px;
+	background:indigo;
+	color:white;
+	width:230px;
+

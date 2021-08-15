@@ -1,0 +1,69 @@
+#mv {
+	background-color:indigo;
+	color:white;
+	font-size:30px;
+	width:520px;
+}
+#nav {
+	color:indigo;
+	background-color:chartreuse;
+	font-size:30px;
+	width:350px;
+}
+#titulo1 {
+	background:burlywood;
+	width:190px;
+	border:2px solid;
+}
+#t2d {
+	width:190px;
+	background:burlywood;
+
+}
+#ol {
+	width:190px;
+	background:burlywood;
+}
+#dl {
+	width:250px;
+}
+#dlt1 {
+	background:burlywood;
+	width:570px;
+}
+#dlt2 {
+	background:burlywood;
+	width:110px;
+	margin-left:100px;
+}
+#dldt1 {
+	color:white;
+	background:indigo;
+	margin:30px;
+}
+#dldd1 {
+	width:210px;
+	background:antiquewhite;
+}
+
+#dldt2 {
+	color:white;
+	background:indigo;
+	margin:30px;
+}
+#dldd2 {
+	width:210px;
+	background:antiquewhite;
+}
+
+#dlt3 {
+	font-size:30px;
+	background:indigo;
+	color:antiquewhite;
+	width:170px;
+}
+
+#dlt3d {
+	background:antiquewhite;
+	width:210px;
+}

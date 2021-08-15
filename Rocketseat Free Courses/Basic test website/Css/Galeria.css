@@ -1,0 +1,34 @@
+#mv {
+	background-color:indigo;
+	color:white;
+	font-size:30px;
+	width:520px;
+}
+#nav {
+	color:indigo;
+	background-color:chartreuse;
+	font-size:30px;
+	width:350px;
+}
+#pgdi {
+	background-color:indigo;
+	color:white;
+	margin-left:220px;
+	width:260px;
+}
+#td {
+	color:black;
+	background-color:burlywood;
+}
+#td2 {
+	color:white;
+	background:black;
+}
+#td3 {
+	color:white;
+	background:black;
+}
+#ft {
+	color:white;
+	background:black;
+}
